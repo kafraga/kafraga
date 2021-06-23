@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-🔭 I’m currently working on as an Agile Master</br>
+🔭 I’m currently working as an Agile Master</br>
 👯 I’m looking to collaborate on bringing more women to Technology!</br>
 💬 Ask me about html, css, javascript</br>
 ⚡ Fun fact: Computer games brought me to IT #playlikeagirl</br>
